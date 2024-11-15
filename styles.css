@@ -101,7 +101,7 @@ header nav{
     margin-top: 80px;
 }
 .imagenes{
-    columns: 5 250px;
+    columns: 5 200px;
     margin: auto;
 }
 .card-image{
